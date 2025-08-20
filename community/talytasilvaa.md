@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Olá! Eu sou o Talyta Silva 👋</h1>
-
+ 
 
  <h2>Sobre mim</h2> 
 Estudante de engenharia mecânica.
